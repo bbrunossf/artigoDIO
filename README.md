@@ -1,6 +1,10 @@
 # artigoDIO
 Como parte do BootCamp Santander 2024, hospedado pela DIO
 
+# Imagem de capa
+<img src="/assets/1280capa.png" width="426" height="255">
+
+
 # Objetivo
 O objetivo foi criar um artigo técnico sobre um tema de tecnologia, utilizando prompts no ChatGPT para criar o conteúdo e também imagens de capa.
 
@@ -31,3 +35,5 @@ O objetivo foi criar um artigo técnico sobre um tema de tecnologia, utilizando 
 
  ## Link do artigo
  O Artigo pode ser lido na seção de Artigos da [DIO](https://web.dio.me/articles/analise-comparativa-matplotlib-e-plotly-para-visualizacao-de-dados-em-python)
+
+Link completo:  https://web.dio.me/articles/analise-comparativa-matplotlib-e-plotly-para-visualizacao-de-dados-em-python
